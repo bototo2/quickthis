@@ -1,6 +1,6 @@
 # QuickStar
 
-uwu
+Adds a ☝️ button on messages that will add the "☝️" reaction on the message, uwu.
 
 **Preview:**
 
